@@ -50,4 +50,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 ## 🚀 Installation
 
 Clone the repository to your local machine using the following command:
+
 https://github.com/hirumi07/Pizza-Project.git
