@@ -1,7 +1,5 @@
 # 🍕 Pizza Creed Project
 
-![image](https://github.com/HiruAmarajeewa/Pizza-Creed-Project/assets/142741031/2ca45bc8-f095-4b38-bb0e-fe1131f22acb)
-
 ## 🍕 Introduction
 
 Welcome to Pizza Creed Backend, the heart of the pizza ordering system for Pizza Creed in Galle Fort. This project is designed to handle product management, shopping basket functionalities, and more for the upcoming Pizza Creed mobile app.
