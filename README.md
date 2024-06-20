@@ -27,7 +27,6 @@ Follow these steps to set up and run the Pizza Creed backend on your local machi
   - Checkout (Payment handled separately).
 
 ## 📊 Project Structure
-
 .
 ├── src/
 │   ├── main/
@@ -44,6 +43,7 @@ Follow these steps to set up and run the Pizza Creed backend on your local machi
 ├── pom.xml
 ├── README.md
 └── ...
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
 
